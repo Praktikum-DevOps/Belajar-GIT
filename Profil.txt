@@ -1,0 +1,4 @@
+Nama             : Rizka
+NIM              : 25100001
+Prodi            : S1 Teknik Informatika
+Perguruan Tinggi : Universitas Cahaya Surya
