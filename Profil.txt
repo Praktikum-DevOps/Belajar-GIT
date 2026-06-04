@@ -1,4 +1,62 @@
-Nama             : Rizka
-NIM              : 25100001
-Prodi            : S1 Teknik Informatika
-Perguruan Tinggi : Universitas Cahaya Surya
+Nama             : Rizky
+Lahir            : Surabaya, 14 Maret 1995
+Kota             : Surabaya
+Jenis Kelamin    : Laki-Laki
+Status           : Menikah
+Agama            : Islam
+
+Kontak           : +62 812-3456-7890
+email            : rizky.aditya@email.com
+LinkedIn         : linkedin.com/in/rizkyaditya
+GitHub           : github.com/rizkyaditya
+Alamat           : Jl. Raya Darmo No. 45, Surabaya
+
+Tentang Saya :
+Software engineer berpengalaman 7 tahun di bidang pengembangan aplikasi web dan mobile. 
+Saya memiliki passion dalam membangun produk digital yang berdampak dan menyukai 
+tantangan teknis yang kompleks. Terbiasa bekerja dalam tim agile dan mampu memimpin tim kecil 
+hingga 8 orang.
+
+Pendidikan :
+1. S1 Teknik Informatika (Institut Teknologi Sepuluh Nopember (ITS) · Surabaya) 
+   2013 – 2017 · IPK 3.72 / 4.00
+2. SMA Negeri 5 Surabaya (IPA · Surabaya)
+   2010 – 2013
+
+Pengalaman Kerja
+
+1. Senior Software Engineer (2022 – Sekarang PT Teknologi Nusantara · Surabaya)
+   Memimpin tim 6 engineer, merancang arsitektur microservices, dan 
+   meningkatkan performa aplikasi hingga 40%.
+2. Software Engineer (2019 – 2022 Startup Digital Jaya · Jakarta)
+   Mengembangkan fitur e-commerce berbasis React & Node.js, menangani 500K+ pengguna aktif.
+3. Junior Developer(2017 – 2019 CV Solusi Cerdas · Surabaya)
+   Membangun sistem manajemen inventaris berbasis PHP & MySQL untuk klien UMKM.
+
+Keahlian Teknis
+
+1. JavaScript
+2. TypeScript
+3. React.js
+4. Node.js
+5. Python
+6. PostgreSQL
+7. MongoDB
+8. Docker
+9 Kubernetes
+10. AWS
+11. Git
+12. Agile/Scrum
+
+Sertifikasi
+
+1. AWS Certified Developer – Associate (2024)
+2. Google Professional Cloud Architect (2023)
+3. Certified Scrum Master (CSM) (2022)
+
+Hobi & Minat
+
+1. Game development indie
+2. Bersepeda & hiking
+3. Membaca buku teknologi
+4. Public speaking & mentoring
