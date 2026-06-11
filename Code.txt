@@ -1,0 +1,18 @@
+git init
+
+git status
+
+git add profil.txt
+git add .
+
+git commit -m "Menambahkan file profil"
+
+git log
+
+git remote add origin https://github.com/username/belajar-git.git
+
+git remote -v
+
+git branch -M main
+
+git push -u origin main
