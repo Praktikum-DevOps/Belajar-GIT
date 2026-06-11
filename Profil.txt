@@ -5,7 +5,7 @@ Jenis Kelamin    : Laki-Laki
 Status           : Menikah
 Agama            : Islam
 
-Kontak           : +62 812-3456-7890
+Kontak           : +62 812-3456-7880
 email            : rizky.aditya@email.com
 LinkedIn         : linkedin.com/in/rizkyaditya
 GitHub           : github.com/rizkyaditya
