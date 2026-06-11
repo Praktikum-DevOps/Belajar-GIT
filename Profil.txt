@@ -5,7 +5,11 @@ Jenis Kelamin    : Laki-Laki
 Status           : Menikah
 Agama            : Islam
 
+<<<<<<< HEAD
 Kontak           : +62 812-3456-7895
+=======
+Kontak           : +62 812-3456-7880
+>>>>>>> update-profile
 email            : rizky.aditya@email.com
 LinkedIn         : linkedin.com/in/rizkyaditya
 GitHub           : github.com/rizkyaditya
@@ -61,3 +65,9 @@ Hobi & Minat
 3. Membaca buku teknologi
 4. Public speaking & mentoring
 5. Membaca
+
+Proyek Portofolio 
+1. Sistem Informasi Akademik 
+2. Aplikasi Manajemen Inventaris 
+3. Website Company Profile
+
